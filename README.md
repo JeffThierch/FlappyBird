@@ -1,4 +1,4 @@
-# FlappyBird PyGame
+# Flappy Bird PyGame
 
 A ideia desse projeto foi, colocar em pratica as tecnicas basicas de programaçao, Manipulaçao de Stings, Classes , Objetos, Variaveis, Estrutura de Dados, entre outras.
 
